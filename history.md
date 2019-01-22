@@ -1,3 +1,4 @@
 - `yarn create react-app test-hooks-example`
 - `yarn add husky lint-staged prettier`
 - `yarn add react@16.8.0-alpha.1 react-dom@16.8.0-alpha.1`
+- `yarn add enzyme enzyme-adapter-react-16`
