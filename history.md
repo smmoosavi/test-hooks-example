@@ -1,1 +1,2 @@
 - `yarn create react-app test-hooks-example`
+- `yarn add husky lint-staged prettier`
